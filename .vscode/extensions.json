@@ -1,0 +1,39 @@
+{
+  "recommendations": [
+    // Core Development
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-next",
+    
+    // Prisma & Database
+    "prisma.prisma",
+    
+    // Docker & Containers
+    "ms-azuretools.vscode-docker",
+    
+    // GraphQL
+    "graphql.vscode-graphql",
+    "graphql.vscode-graphql-syntax",
+    
+    // Tailwind CSS
+    "bradlc.vscode-tailwindcss",
+    
+    // Git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    
+    // Utilities
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker",
+    "aaron-bond.better-comments",
+    
+    // Testing
+    "vitest.explorer",
+    
+    // REST Client
+    "humao.rest-client",
+    
+    // Environment Files
+    "mikestead.dotenv"
+  ]
+}

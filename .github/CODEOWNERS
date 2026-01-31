@@ -1,0 +1,30 @@
+# Collab-PM Code Owners
+# =============================================================================
+# These owners will be automatically requested for review when someone opens
+# a pull request that modifies code that they own.
+# =============================================================================
+
+# Global owners (fallback)
+* @afnanahmadtariq
+
+# Frontend
+/apps/interface/ @afnanahmadtariq
+
+# Backend
+/apps/api/ @afnanahmadtariq
+
+# Shared packages
+/packages/ @afnanahmadtariq
+
+# Infrastructure & DevOps
+/docker/ @afnanahmadtariq
+/.github/ @afnanahmadtariq
+docker-compose*.yml @afnanahmadtariq
+Dockerfile* @afnanahmadtariq
+
+# Database
+/apps/api/prisma/ @afnanahmadtariq
+
+# Configuration
+turbo.json @afnanahmadtariq
+pnpm-workspace.yaml @afnanahmadtariq

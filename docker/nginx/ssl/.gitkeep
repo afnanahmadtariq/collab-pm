@@ -1,0 +1,4 @@
+# Placeholder to keep ssl directory in git
+# Place your SSL certificates here:
+# - fullchain.pem (certificate chain)
+# - privkey.pem (private key)
